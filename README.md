@@ -21,6 +21,7 @@ This workshop is designed around the "low-hanging fruit" of best practices - sim
  * Test-driven development
  * Style guides
  * Documentation
+ * How to make really excellent nachos 
 
 ##How to teach yourself
 
